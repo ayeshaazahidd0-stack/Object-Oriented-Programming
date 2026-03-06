@@ -9,7 +9,7 @@ using namespace std;
  int main(){
  	student_info si;
  	int total_marks = 0;
- 	cout << " |||||||||||| Student Data ||||||||||||" << endl;
+ 	cout << " Student Data " << endl;
  	cout << " Enter Student Name: " << endl;
  	cin.ignore();
  	getline (cin, si.name);
